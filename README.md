@@ -1,1 +1,1 @@
-# SÓ DEXAIDANDO ESCRITO QUE ESSE REPOSITORIO SÃO PROJETOS EM GERAL QUE FAÇO JUNTO COM MEUS ESTUDOS, FIQUE AVONTADE PARA PEGAR E TESTAR
+# Só deixando claro que esse repositório é para meus projetos junto com meus estudos, fique à vontade para ver e pegar para testar.
